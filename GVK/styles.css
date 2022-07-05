@@ -3567,7 +3567,8 @@ ul.top-info li {
 	line-height: 10px;
 	display: inline-block;
 	margin-left: 0;
-	padding-right: 15px
+	padding-right: 15px;
+	color: white;
 }
 
 ul.top-info li i {
@@ -9257,7 +9258,6 @@ img.testimonial-thumb {
 
 .ts-newsletter:after {
 	content: "";
-	position: absolute;
 	background: #f9f9f9;
 	display: block;
 	width: 100%;
